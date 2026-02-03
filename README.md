@@ -18,7 +18,7 @@
 - ⭐ I’m interested in **HTML, CSS, JS or FiveM scripting.**
 - 📫 How to reach me: [dsc.gg/adevelopment](https://dsc.gg/adevelopment)
 - 👤 Pronouns: He/Him
-- 🔧 My first repository was [ad_blips](ad_blips).
+- 🔧 My first repository was [ad_blips](https://github.com/Adamrhino/ad_blips).
 
 <br>
 
