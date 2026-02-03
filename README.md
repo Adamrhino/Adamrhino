@@ -16,7 +16,7 @@
 - 📊 I’m a **FiveM developer**, building RP systems for Fivem.
 - 📌 I’m currently working on **RPChat, HUD or Carradio script.**
 - ⭐ I’m interested in **HTML, CSS, JS or FiveM scripting.**
-- 📫 How to reach me: [dsc.gg/adevelopment](dsc.gg/adevelopment)
+- 📫 How to reach me: [dsc.gg/adevelopment](https://dsc.gg/adevelopment)
 - 👤 Pronouns: He/Him
 - 🔧 My first repository was [ad_blips](github.com/adamrhino/ad_blips).
 
@@ -51,7 +51,7 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a target="_blank" href="https://www.linkedin.com/in/">
+        <a target="_blank" href="https://dsc.gg/adevelopment">
 			<img width="40" height="40" alt="myLogo" src="https://github.com/user-attachments/assets/be502f17-fd9f-4cfc-9db2-2f3ee7d90eec" />
 
 
